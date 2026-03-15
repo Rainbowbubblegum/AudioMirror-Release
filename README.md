@@ -4,17 +4,10 @@
 
 ## Download
 
-**[Download Audio Mirror v1.0.0](https://github.com/Rainbowbubblegum/AudioMirror-Download/releases/latest)** (Windows 10/11, ~130 MB)
+**[Download Audio Mirror v1.0.0](https://github.com/Rainbowbubblegum/AudioMirror-Download/releases/latest)** (Windows 10/11, ~50 MB)
 
 ## Installation
-
-1. Download the ZIP from the link above
-2. Extract the ZIP file
-3. Run **Setup.bat** (double-click)
-4. Follow the prompts — Audio Mirror will install and add a Start Menu shortcut
-5. Launch from Start Menu when done
-
-**Alternative:** You can run **AudioMirror.Desktop.exe** directly from the extracted folder — no install needed (portable mode).
+You can run **AudioMirror.Desktop.exe** directly from the extracted folder — no install needed (portable mode).
 
 ## What it does
 
