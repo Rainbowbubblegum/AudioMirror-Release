@@ -1,4 +1,4 @@
-# Audio Mirror - Download
+# ShareAudio - Download
 
 **Mirror your headset audio to speakers** — Simple desktop app to route Windows audio to multiple output devices at once, with per-device volume controls.
 
